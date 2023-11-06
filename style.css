@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(https://img.freepik.com/vector-premium/doodles-negocios-dibujados-mano_1447-1483.jpg);
+    height: 100vh;
+    display: flex
+}
+
+.input{
+    background-color: rgb(41, 40, 40);
+    color: aliceblue;
+}
+.title{
+    color: aliceblue;
+}
+
+.box-content{
+    border: 5px solid aliceblue;
+    color: aliceblue;
+    background-color: #393E49;
+    margin: auto;
+    padding: 5%;
+}
+
+.btn{
+    width: 90%;
+    display: flex;
+    margin: 5%;
+    
+}
+
+.parrafo-resultado{
+    color: rgb(138, 138, 245);
+    text-align: center;
+}
+
+.ul-registro{
+    text-align: center;
+}
