@@ -3,3 +3,37 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-image: url(https://media.istockphoto.com/id/891173100/es/vector/conjunto-de-iconos-de-la-aplicaci%C3%B3n-de-m%C3%BAsica-incluye-los-iconos-como-canci%C3%B3n-playlist-m%C3%BAsica.jpg?s=612x612&w=0&k=20&c=iisZqNGZgnx_lLnWXmAxIlSGA5ahx93GlUrfJy8oWZc=);
+}
+
+label{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+#content-playlist{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+}
+
+
+.formulario{
+    flex-direction: column;
+    margin: 50px;
+    background-color: rgb(200, 115, 243);
+}
+
+
+.section-playlist{
+    margin: 70px;
+    text-align: center;
+}
